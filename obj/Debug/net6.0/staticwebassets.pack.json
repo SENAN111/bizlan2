@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\portfolio\\portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\newbIZland\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.newbIZland.props",
+      "PackagePath": "build\\newbIZland.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.newbIZland.props",
+      "PackagePath": "buildMultiTargeting\\newbIZland.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.newbIZland.props",
+      "PackagePath": "buildTransitive\\newbIZland.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.newbIZland.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
